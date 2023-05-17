@@ -40,7 +40,7 @@ class Pantalla4 extends StatelessWidget {
             children: [
               Image.network(
                 // Ruta de la imagen
-                'https://github.com/AbrilSarinanaHerrera/floreria-img/blob/main/contacto.png?raw=true',
+                '',
                 height: 307,
                 width: 300,
                 fit: BoxFit.cover,
